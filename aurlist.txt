@@ -1,0 +1,7 @@
+brave-bin
+ciphey
+seclists
+steghide
+yay
+yay-debug
+zsteg
