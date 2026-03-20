@@ -4,7 +4,7 @@ the reason i made this is because i get bored everytime when i have to remember 
 this is my first proper repo and script so there might be errors.
 will update the packages every week
 
-# How to install?
+## How to install?
 just paste this in your terminal 
 ```bash
 sudo pacman -S --needed base-devel git && git clone https://github.com/whxbi/myarchpkgs.git && cd ~/myarchpkgs && ./install.sh
